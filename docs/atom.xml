@@ -4,7 +4,7 @@
  <title>Lanyon</title>
  <link href="https://bakeries-r-us.github.io/atom.xml" rel="self"/>
  <link href="https://bakeries-r-us.github.io/"/>
- <updated>2023-09-19T00:03:19-07:00</updated>
+ <updated>2023-09-19T00:09:01-07:00</updated>
  <id>https://bakeries-r-us.github.io</id>
  <author>
    <name>Peter Ajtai</name>
@@ -29,9 +29,9 @@
                     |
            Salt  ---+
                     |
-           Water ---+---&amp;gt; Bread ---+
-                                   +---&amp;gt; Store shelves
-               Paper Bread Bags ---+
+           Water ---+---&amp;gt; Bread --------+
+                                        +---&amp;gt; Store shelves
+Wood ---&amp;gt; Paper Pulp ---&amp;gt; Paper Bags ---+
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 </content>
