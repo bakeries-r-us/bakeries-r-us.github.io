@@ -16,8 +16,8 @@ Wheat ---> Flour ---+
                     |
            Salt  ---+
                     |
-           Water ---+---> Bread ---+
-                                   +---> Store shelves
-               Paper Bread Bags ---+
+           Water ---+---> Bread --------+
+                                        +---> Store shelves
+Wood ---> Paper Pulp ---> Paper Bags ---+
 ```
 
