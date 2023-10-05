@@ -4,7 +4,7 @@
  <title>Bakeries-R-Us</title>
  <link href="https://bakeries-r-us.github.io/atom.xml" rel="self"/>
  <link href="https://bakeries-r-us.github.io/"/>
- <updated>2023-10-04T21:27:02-07:00</updated>
+ <updated>2023-10-04T21:29:55-07:00</updated>
  <id>https://bakeries-r-us.github.io</id>
  <author>
    <name>Peter Ajtai</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>A Test Based Game</title>
-   <link href="https://bakeries-r-us.github.io/2023/10/04/test-based/"/>
+   <title>A Text-Based Game</title>
+   <link href="https://bakeries-r-us.github.io/2023/10/04/text-based/"/>
    <updated>2023-10-04T00:00:00-07:00</updated>
-   <id>https://bakeries-r-us.github.io/2023/10/04/test-based</id>
+   <id>https://bakeries-r-us.github.io/2023/10/04/text-based</id>
    <content type="html">&lt;p&gt;I realized that I could greatly simplify things by making the game text-based. There’s no real reason to add graphics. Everything can be described in words.&lt;/p&gt;
 
 &lt;p&gt;Using text and, at least initially, multiple choice questions should greatly simplify both the development and the learning of the game.&lt;/p&gt;

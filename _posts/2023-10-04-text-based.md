@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Test Based Game
+title: A Text-Based Game
 ---
 
 I realized that I could greatly simplify things by making the game text-based. There's no real reason to add graphics. Everything can be described in words.
